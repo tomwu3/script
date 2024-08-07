@@ -34,7 +34,7 @@
 	var jdGoodsFilters = [
 		//自营，非自营
 		{name:'自营',nameN:'非自营',lv:0,conditions:[
-			{type:'attr',tag:'i',attr:'style',vals:[
+			{type:'attr',tag:'span',attr:'style',vals:[
 				'background-color:#e23a3a'
 			]}
 		]},
